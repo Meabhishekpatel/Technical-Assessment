@@ -1,0 +1,112 @@
+[
+    {
+        "id":1,
+        "question": "What is React ?",
+        "options":[
+            "A programming language",
+            "A javascript library",
+            "A database",
+            "An operating system"
+        ],
+        "correctAnswer":"A javascript library"
+    },
+     {
+        "id":2,
+        "question": "Which hook is used to manage state in react ?",
+        "options":[
+            "useEffect",
+            "useState",
+            "useContext",
+            "useRef"
+        ],
+        "correctAnswer":"useState"
+    },
+     {
+        "id":3,
+        "question": "Which hook is  commonly used for side effect ?",
+        "options":[
+            "useEffect",
+            "useState",
+            "useContext",
+            "useRef"
+        ],
+        "correctAnswer":"useEffect"
+    },
+    {
+        "id":4,
+        "question": "What does JSX stand for ?",
+        "options":[
+            "Javascript XML",
+            "Java syntax XML",
+            "javascript Extension",
+            "JSON XML"
+        ],
+        "correctAnswer":"Javascript XML"
+    },
+    {
+        "id":5,
+        "question": "Which method is commonly used to render a list in React ?",
+        "options":[
+           "forEach",
+           "map",
+           "filter",
+           "reduce"
+        ],
+        "correctAnswer":"map"
+    },
+    {
+        "id":6,
+        "question": "Which hook is used to access Context?",
+        "options":[
+            "useEffect",
+            "useState",
+            "useContext",
+            "useReducer"
+        ],
+        "correctAnswer":"UseContext"
+    },
+    {
+        "id":7,
+        "question": "What is a virtual DOM ?",
+        "options":[
+            "A database",
+            "A browser",
+            "An in-memory representation fo The UI",
+            "A CSS framework"
+        ],
+        "correctAnswer":"An in-memory representation of the UI"
+    },
+    {
+        "id":8,
+        "question": "Which hook is used to manage complex state logic ?",
+        "options":[
+           "useEffect",
+            "useState",
+            "useContext",
+            "useReducer"
+        ],
+        "correctAnswer":"UseReduce"
+    },
+    {
+        "id":9,
+        "question": "Which HTTP method is commonly used to retrieve data ?",
+        "options":[
+            "POST",
+            "PUT",
+            "GET",
+            "DELETE"
+        ],
+        "correctAnswer":"GET"
+    },
+    {
+        "id":10,
+        "question": "Which technology is commonly used as the database in MERN ?",
+        "options":[
+            "MongoDB",
+            "MySQL",
+            "PostgreSQL",
+            "Oracle"
+        ],
+        "correctAnswer":"MongoDB"
+    } 
+]
